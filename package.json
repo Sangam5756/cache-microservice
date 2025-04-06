@@ -1,0 +1,20 @@
+{
+  "name": "cacheserver",
+  "version": "1.0.0",
+  "description": "server which cache the request for some time , avoid the db calls , better performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sangam5756/cachedServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sangam5756/cachedServer/issues"
+  },
+  "homepage": "https://github.com/Sangam5756/cachedServer#readme"
+}
