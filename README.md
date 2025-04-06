@@ -133,7 +133,3 @@ DELETE /cache/user:123
 | User data cache | `user:123` | 1 hr |
 | API response | `cache:/courses` | 10 min |
 | Search results | `search:reactjs` | 2 min |
-
----
-
-Let me know if you want a mini demo, diagram, or frontend usage example!
